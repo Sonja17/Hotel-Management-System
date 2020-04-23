@@ -5,5 +5,5 @@ But have you ever had a problem where you have heard about a hotel, seen its pic
 
 For different hotels,restaurants,motels,resorts etc finding a good and suitable software is very important. Without it they would waste more time, and time is money. These problems would keep away from customers as the example i showed by many people experiences,and that do not provide a good image about the business. 
 
-Well we looked at how we could come up with a solution about the problem "Golden Taler" hotel is facing . 
+Well we looked at how we could come up with a solution about the problem "Zum Ziel" hotel is facing . 
 And what we will try to do is to create a software wich will be very simple to use , will help to upgrade the efficiency and progress of hotel.
